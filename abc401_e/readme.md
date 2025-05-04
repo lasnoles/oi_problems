@@ -1,3 +1,6 @@
+# Problem Source
+https://atcoder.jp/contests/abc401/tasks/abc401_e
+
 # Thinking Process
 The problem is to figure out whether nodes are connected together after nodes are removed, and get the minimum number of nodes to remove.
 
